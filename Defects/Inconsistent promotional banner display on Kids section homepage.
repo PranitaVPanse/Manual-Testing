@@ -1,1 +1,38 @@
+Defect Id: 001
+
+Defect Summary: Inconsistent promotional banner display across the Men, Women, and Kids sections on the homepage.
+
+Detected On: 16/01/2025
+
+Detected By: Pranita Panse
+
+Module: Homepage (Men, Women, Kids Sections)
+
+Environment:  Browser – Chrome; OS – Windows 11
+
+Steps to reproduce:
+1. Navigate to https://en.aboutyou.de/. 
+2. Navigate to the Men section: Promotional banners are displayed.
+3. Navigate to Women section: Promotional banners are displayed.
+4. Navigate to the Kids section: No promotional banners; products are displayed directly.
+
+Expected Result:
+Promotional banners should be consistently displayed across Men, Women, and Kids sections.
+
+Actual Result:
+Promotional banners are missing in the Kids section, creating an inconsistent user experience.
+
+Severity: Medium
+Priority: Low to Medium
+[Points to be considered:
+Low: If promotions are not a critical part of the Kids section strategy or if this is a minor UX issue that doesn’t significantly impact business goals.
+Medium: If the inconsistency in displaying promotional content is unintentional and affects marketing efforts or sales in the Kids section.]
+
+Type of Defect: UI Inconsistency
+
+Defect Status: Open
+
+Reproducibility: Always
+
+Comments: Confirm with the business team whether this behaviour is intentional or requires alignment. Refer Attached file for screenshots and other details.
 
